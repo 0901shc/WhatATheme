@@ -1,5 +1,5 @@
-# WhatATheme
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
+# I-ME studio
+**I-ME studio** 는 인천대 산업경영공학과 앱개발 Team 입니다.
 
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
 
