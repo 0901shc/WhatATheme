@@ -2,14 +2,14 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'www.I-ME_studio.com'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
 title: I-ME studio
 # Description of the Site
-description: 인천대 산업경영공학과 앱개발 소모임
+description: 인천대 산업경영공학과 앱개발 소모임!
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
