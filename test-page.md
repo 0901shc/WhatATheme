@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: 테스트 페이지
 layout: page
 ---
 
