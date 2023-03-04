@@ -1,4 +1,4 @@
-# WhatATheme
+# I-ME studio
 markdown: kramdown
 
 # URL of the Site
@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: I-ME studio
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: 인천대 산업경영공학과 앱개발 소모임
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
